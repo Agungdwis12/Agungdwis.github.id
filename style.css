@@ -14,3 +14,11 @@ section{
     padding-top: 7rem;
 }
 
+#about .row {
+  margin-left: -15px;
+  margin-right: -15px;
+}
+
+#about .col-md-5 {
+  margin: 0 15px; /* Memberikan jarak antar kolom kiri dan kanan */
+}
